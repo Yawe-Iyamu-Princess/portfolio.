@@ -1,0 +1,176 @@
+* {
+    margin: auto;
+   
+}
+.container {
+    max-width: 100%;
+    max-height: 100%;
+    line-height: 1.6;
+}
+.set {
+    padding-left: 20px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 40px;
+}
+.ist {
+    text-align: center;
+}
+.hat {
+    float: right;
+    padding-right: 90px;
+    
+}
+.bn {
+    padding: 5px 20px;
+}
+header {
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+.logo {
+    height: 1px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.phase {
+    float: right;
+    background-image: url(/PHOTOS/me.JPG);
+    background-size: auto;
+    height: 601px;
+    padding-bottom: 40px;
+}
+.is {
+    border-radius: 20px;
+    background-color: blue;
+    padding: 3px 20px;
+    color: white;
+    border: none;
+}
+h1 {
+    margin-top: 55px;
+    text-transform: capitalize;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.ire {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 7px 20px;
+    margin-top: 5px;
+}
+.projects {
+    background-color: white;
+     border: none;
+}
+.foo {
+    padding-left: 20px;
+    background-color: black;
+    color: white;
+    padding: 35px 0px;
+    padding-left: 20px;
+    margin-top: 40px;
+}
+
+.on {
+    margin-top: 25px;
+}
+
+.num {
+
+margin-left: 200px;
+
+}
+.run {
+    height: 0px;
+}
+table {
+    margin-left: 200px;
+    margin-top: 20px;
+
+    
+    
+}
+td {
+    border-bottom: 1px solid white;
+
+    
+}
+.wd {
+    padding-left: 50px;
+}
+
+.more {
+    background-color: yellow;
+    border: none;
+    margin-bottom: 20px;
+}
+.ore {
+    height: 0px;
+    
+}
+.buttin {
+    margin-top: 28px;
+    margin-bottom: 20px;
+}
+
+.al {
+    float: right;
+    margin-right: 130px;
+}
+
+img {
+    max-height: 100vh;
+    max-width: 100%;
+    /*position: absolute;*/
+    float: left;
+    z-index: -1;
+}
+.one {
+    height: 75px;
+    width: 25;
+    margin-top: 195px;
+    margin-left: 46px;
+    border-radius: 38px;
+}
+.two {
+    height: 75px;
+    width: 25;
+    margin-top: 97px;
+    margin-left: 248px; 
+    border-radius: 38px;  
+}
+.tre {
+    height: 75px;
+    width: 25;
+    margin-left: 250px;
+    margin-top: 117px;
+    border-radius: 38px;
+
+}
+.cr {
+    float: left;
+    height: 443px;
+    width: 518px;
+    text-align: center;
+    margin-top: 65px;
+}
+
+.cre {
+    font-size: x-large;
+    font-weight: bold;
+}
+.new {
+    margin-top: 431px;
+    background-color: white;
+    width: 177px;
+    padding-right: 135px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: grey;
+}
